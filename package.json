@@ -10,7 +10,7 @@
     "vite": "^2.5.1"
   },
   "dependencies": {
-    "micromodal": "^0.4.10",
+    "micromodal": "^0.6.1",
     "three": "^0.132.2"
   }
 }
